@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(112,141): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(114,108): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(120,57): warning C4267: '=': conversión de 'size_t' a 'GLuint'; posible pérdida de datos
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(136,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(160,39): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(160,39): warning C4244:         with
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(160,39): warning C4244:         [
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(160,39): warning C4244:             T=float
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(160,39): warning C4244:         ]
+C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\src\main.cpp(160,39): warning C4244: GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Graphics_1.vcxproj -> C:\Users\oscar\OneDrive\Documentos\SALLE\Graf\TETERA\visual_studio\..\Graphics_1.exe
