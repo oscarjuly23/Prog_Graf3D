@@ -15,3 +15,11 @@ Este repositorio se enfoca en proyectos relacionados con la programación de gr�
 - Bibliotecas Gráficas: Se aplicaron bibliotecas gráficas ampliamente reconocidas en la programación de gráficos en tiempo real.
 - Matemáticas: Se aplicaron conceptos matemáticos esenciales para la programación de gráficos, como álgebra lineal y geometría.
 - Metodología Ágil: Se adoptaron prácticas ágiles para la gestión de proyectos, como Scrum o Kanban.
+
+## Ejercicios:
+### [FirstExercice](https://github.com/oscarjuly23/Prog_Graf3D/tree/main/Sword.cpp)
+Este proyecto se centró en la creación de una figura en un plano tridimensional, sin restricciones temáticas, con el propósito de practicar y perfeccionar habilidades relacionadas con la representación gráfica en 3D. El objetivo principal de esta iniciativa era permitir a los participantes explorar la dimensión tridimensional y aplicar conocimientos teóricos en un contexto práctico.
+### [Object Shading](https://github.com/oscarjuly23/Prog_Graf3D/tree/main/Tetera)
+En este proyecto, se trató de aplicar conceptos esenciales de gráficos en 3D en tiempo real a un objeto en forma de tetera en la escena.
+### [Solar System](https://github.com/oscarjuly23/Prog_Graf3D/tree/main/SolarSystem)
+El objetivo de este proyecto era crear un sistema solar en una aplicación de gráficos 3D. Se requería utilizar texturas de http://planetpixelemporium.com/ y, opcionalmente, cargar geometría adicional de otras fuentes.
