@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': redefinición de macro
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\include\GLFW\glfw3.h(98): message : vea la definición anterior de 'APIENTRY'
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(34,38): warning C4305: 'inicializando': truncamiento de 'double' a 'const float'
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(127,138): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(128,134): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(129,134): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(130,105): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(141,52): warning C4267: '=': conversión de 'size_t' a 'GLuint'; posible pérdida de datos
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(169,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(227,45): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(227,45): warning C4244:         with
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(227,45): warning C4244:         [
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(227,45): warning C4244:             T=float
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(227,45): warning C4244:         ]
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(228,45): warning C4244: '=': conversión de 'double' a 'T'; posible pérdida de datos
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(228,45): warning C4244:         with
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(228,45): warning C4244:         [
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(228,45): warning C4244:             T=float
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(228,45): warning C4244:         ]
+D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\src\main.cpp(228,45): warning C4244: GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  Graphics_1.vcxproj -> D:\Carpeta\Documents\OneDrive - La Salle\Documentos\SALLE\Graf\Prácticas\Practica_3\visual_studio\..\Graphics_1.exe
