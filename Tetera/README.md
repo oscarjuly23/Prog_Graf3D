@@ -14,4 +14,7 @@ Se han implementado controles de cámara al estilo de los juegos en primera pers
 - Teclas WASD: Permiten el movimiento a lo largo de los ejes de avance y lateral de la cámara.
 - Interacción con el Ratón: Se ha logrado una rotación fluida y precisa de la cámara mediante la interacción con el ratón, evitando problemas como el bloqueo de gimbal. Esto mejora la experiencia de navegación en el entorno 3D.
 
-![Captura](https://github.com/oscarjuly23/Prog_Graf3D/assets/39187459/a8a04394-b845-402b-9737-d06a69150505)
+##
+<p align="center">
+  <img width="460" height="300" src="https://github.com/oscarjuly23/Prog_Graf3D/assets/39187459/a8a04394-b845-402b-9737-d06a69150505">
+</p>
