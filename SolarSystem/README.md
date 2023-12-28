@@ -41,3 +41,5 @@ Agregar líneas de órbita para mostrar visualmente las trayectorias de los plan
 Incluir focos de luz en naves espaciales o en la superficie de los planetas para iluminar áreas específicas.
 ### Transiciones de Escena: 
 Crear transiciones de escena a medida que la cámara se acerca a un planeta o al aterrizar en su superficie.
+
+![Captura](https://github.com/oscarjuly23/Prog_Graf3D/assets/39187459/eb3f93ba-a2ac-4a8d-b9ed-915dbec33faa)
